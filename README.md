@@ -1,7 +1,7 @@
 # Classifier-to-Identify-Dog-Breeds
 Using Pre-Trained Classifier to identify Dog Breeds
 
-This project was part of the "AI-Programming with Python Nanodregree by Udacity".
+This project was part of the [AI-Programming with Python Nanodregree by Udacity](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089).
 
 # Objectives
 1. Identifying which pet images are of dogs and which pet images aren't of dogs
